@@ -1,0 +1,7 @@
+# Parts 0-3 (CPU)
+numpy
+torch
+matplotlib
+sentence-transformers   # optional: Part 3 falls back to a bag-of-words encoder without it
+# Part 4 (GPU + internet)
+# lerobot[smolvla]
