@@ -1,7 +1,7 @@
 # DLA · TP5 — Foundation models for robotics
 
 Practical session for the **DLA (Deep Learning)** course, Sorbonne Université, M2.
-Tuesday 17 November 2026, 13:45–15:45. Instructor: Silvia Tulli (ISIR, Sorbonne Université).
+Tuesday 17 November 2026, 16:00–18:00. Instructor: Silvia Tulli (ISIR, Sorbonne Université).
 
 It follows lecture **C5 “Foundation models for robotics”**. You rebuild, on small 2D problems that train in seconds, the three design choices shared by modern vision-language-action models (VLAs) such as π0, SmolVLA and GR00T N1:
 
